@@ -1,0 +1,7 @@
+<!-- -->
+<launch>
+
+  <node pkg="carla_auto_navigation" type="autonomous_nav.py" name="carla_auto_nav_ego" output="screen">
+  </node>
+
+</launch>
